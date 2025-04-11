@@ -10,6 +10,15 @@
         "preview": "e&?",
         "shifts": "inherit"
       },
+	  
+	  {
+        "id": "minecraft-hebrew",
+        "name": "Hebrew",
+        "author": "GerOriki",
+        "preview": "אבג",
+        "shifts": "inherit"
+      },
+	  
       {
         "id": "minecraft-ten-cyrillic",
         "name": "Cyrillic",
