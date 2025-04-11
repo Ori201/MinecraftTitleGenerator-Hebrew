@@ -1,0 +1,42 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [1000, 320],
+	"textures": {
+		"0": "minecraft-hebrew:flat",
+		"particle": "minecraft-hebrew:flat"
+	},
+	"elements": [
+		{
+			"from": [-6, 2, 0],
+			"to": [24, 30, 22],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 0]},
+			"faces": {
+				"north": {"uv": [0.48, 1.104, 1.168, 3.104], "texture": "#0"},
+				"south": {"uv": [0.48, 1.1, 1.168, 3.1], "texture": "#0"},
+				"up": {"uv": [0.48, 0, 1.168, 1.1], "texture": "#0"},
+				"down": {"uv": [0.48, 3.1, 1.168, 4.2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [26, 32, 24],
+			"to": [-8, 0, -2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [34, 32, 26]},
+			"faces": {
+				"north": {"uv": [0, 13.3, 0.016, 13.35], "texture": "#0"},
+				"east": {"uv": [0, 13.3, 0.016, 13.35], "texture": "#0"},
+				"south": {"uv": [0, 13.3, 0.016, 13.35], "texture": "#0"},
+				"west": {"uv": [0, 13.3, 0.016, 13.35], "texture": "#0"},
+				"up": {"uv": [0, 13.3, 0.016, 13.35], "texture": "#0"},
+				"down": {"uv": [0, 13.3, 0.016, 13.35], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "א",
+			"origin": [19, 23, 0],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}
